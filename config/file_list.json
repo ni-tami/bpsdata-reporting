@@ -1,27 +1,27 @@
 [
     {
         "sourceBaseURL":"https://raw.githubusercontent.com",
-        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/ipm.csv",
+        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/raw/ipm.csv",
         "sinkFileName":"human_development_index.csv"
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com",
-        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/persentase_penyelesaian_tindak_pidana.csv",
+        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/raw/persentase_penyelesaian_tindak_pidana.csv",
         "sinkFileName":"percent_crime_solved.csv"
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com",
-        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/kepadatan_penduduk.csv",
+        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/raw/kepadatan_penduduk.csv",
         "sinkFileName":"population_density_per_km2.csv"
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com",
-        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/selang_waktu_tindak_pidana.csv",
+        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/raw/selang_waktu_tindak_pidana.csv",
         "sinkFileName":"crime_clock.csv"
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com",
-        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/province_lookup.tsv",
+        "sourceRelativeURL":"ni-tami/bpsdata-reporting/main/raw/province_lookup.tsv",
         "sinkFileName":"province_lookup.tsv"
     }
 ]
